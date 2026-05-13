@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "_Tippe_.aternos.me ",
-    "port": 36007,
+    "ip": "bumbasmp.aternos.me",
+    "port": 27667,
     "version": "",
     "try-creative": false
   },
